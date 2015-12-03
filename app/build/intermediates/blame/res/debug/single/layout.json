@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\workspace\\GoogleSIPClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\walkietalkie.xml",
+        "source": "D:\\workspace\\GoogleSIPClient\\app\\src\\main\\res\\layout\\walkietalkie.xml"
+    },
+    {
+        "merged": "D:\\workspace\\GoogleSIPClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\call_address_dialog.xml",
+        "source": "D:\\workspace\\GoogleSIPClient\\app\\src\\main\\res\\layout\\call_address_dialog.xml"
+    }
+]
